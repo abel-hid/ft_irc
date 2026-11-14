@@ -6,7 +6,7 @@ It works with real IRC clients such as **irssi**, **WeeChat**, **HexChat** or **
 
 As a bonus, it also includes a **bot** (`Bot`). The bot connects to the server like a normal client and answers commands (`time`, `help`, `level <login>`).
 
-> Made by **ylamsiah** & **abel-hid**
+> Made by **abel-hid** & **ylamsiah** 
 
 ---
 
